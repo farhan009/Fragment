@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Fragment</string>
+
+    <string name="farhan_Details">Farhan</string>
+    <string name="akash_Details">Akash</string>
+    <string name="rahat_Details">Rahat</string>
+    <string name="sabiha_Details">Sabiha</string>
+    <string name="siyam_Details">Siyam</string>
+
+    <!--<string name="farhan_Details">
+         Name       : Farhan islam
+        \n Department : Computer Technology
+        \n Phone No   : 01715_309242
+    </string>
+
+    <string name="akash_Details">
+         Name       : Afnan Islam Akash
+        \n Department : Computer Technology
+        \n Phone No   : 01990_709752
+    </string>
+
+    <string name="rahat_Details">
+         Name       : Arif Shariher Rahat
+        \n Department : Mechanical Technology
+        \n Phone No   : 01708_425618
+    </string>
+
+    <string name="sabiha_Details">
+         Name       : Sheikh Sabiha
+        \n Varsity    : Jahangirnagar University
+        \n Phone No   : 01885_929987
+    </string>
+
+    <string name="siyam_Details">
+         Name       : Sharif Siyam
+        \n Department : Electronics Technology
+        \n Phone No   : 01733_374265
+    </string>-->
+</resources>
